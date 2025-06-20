@@ -6,6 +6,12 @@ Este é um projeto de RPG desenvolvido em Unity, disponível tanto para compila�
 
 Um RPG 2D com sistema de combate, missões, inventário, progressão de personagem e exploração de áreas, totalmente implementado em C# utilizando Unity.
 
+## Controles
+
+**Navegação na tela inicial** - Mouse.
+**Navegação na criação de Personagens** - Setas para navegar, enter para confirmar decisão.
+**Navegação no Mundo** - W,A,S,D para mover o personagem, Mouse para interagir com a UI, E para interagir com NPCs, Inimigos e para mudar de Área
+
 ## Como Jogar
 
 ### 1. Jogar Online (Recomendado)
@@ -14,7 +20,14 @@ O jogo está publicado no itch.io. Basta acessar o link abaixo e jogar diretamen
 
 [**Jogar no itch.io**](https://pedromatta.itch.io/toca-dos-goblins-web)  
 
-### 2. Compilar e Executar Localmente
+### 2. Baixar o jogo já compilado
+
+O jogo está publicado no itch.io. Basta acessar o link abaixo e instalar diretamente a build do jogo:
+
+[**Jogar no itch.io**](https://pedromatta.itch.io/toca-dos-goblins)  
+
+
+### 3. Compilar e Executar Localmente
 
 #### Pré-requisitos
 
