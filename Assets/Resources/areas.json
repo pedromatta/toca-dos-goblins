@@ -1,0 +1,31 @@
+{
+  "areas": [
+    {
+      "id": "vila_abobrinha",
+      "nome": "Vila Abobrinha",
+      "descricao": "Uma vila pacata.",
+      "npcIds": ["velho_sabio"],
+      "inimigoIds": ["goblin"]
+    },
+    {
+      "id": "area_do_lago",
+      "nome": "Area do Lago",
+      "descricao": "Um caminho perigoso repleto de goblins.",
+      "npcIds": ["caçador_goblin"],
+      "inimigoIds": ["goblin", "goblin_explosivo"]
+    },
+    {
+      "id": "toca_goblins",
+      "nome": "Toca dos Goblins",
+      "descricao": "O covil dos goblins, lar de muitos perigos.",
+      "npcIds": [],
+      "inimigoIds": [
+        "goblin",
+        "goblin_elite",
+        "goblin_explosivo",
+        "goblin_explosivo_elite",
+        "goblin_lider"
+      ]
+    }
+  ]
+}

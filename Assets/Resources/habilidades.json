@@ -1,0 +1,100 @@
+{
+  "habilidades": [
+    {
+      "id": "resiliencia",
+      "nome": "Resiliencia",
+      "tipo": "cura",
+      "descricao": "Voce se mantem de pe. Recupera 10 pontos de vida.",
+      "custoMana": 4,
+      "efeito": 10
+    },
+    {
+      "id": "salvacao",
+      "nome": "Salvacao",
+      "tipo": "dano",
+      "descricao": "Uma ajuda divina. Causa 10 pontos de dano.",
+      "custoMana": 4,
+      "efeito": 10
+    },
+    {
+      "id": "esguio",
+      "nome": "Esguio",
+      "tipo": "cura",
+      "descricao": "Sua vitalidade ana te revigora. Recupera 12 pontos de vida.",
+      "custoMana": 4,
+      "efeito": 12
+    },
+    {
+      "id": "golpe_forte",
+      "nome": "Golpe Forte",
+      "tipo": "dano",
+      "descricao": "Um ataque poderoso. Causa 15 pontos de dano.",
+      "custoMana": 6,
+      "efeito": 15
+    },
+    {
+      "id": "defesa_ferrea",
+      "nome": "Defesa Ferrea",
+      "tipo": "cura",
+      "descricao": "Sua resistencia e de ferro. Recupera 8 pontos de vida.",
+      "custoMana": 3,
+      "efeito": 8
+    },
+    {
+      "id": "furia",
+      "nome": "Furia",
+      "tipo": "dano",
+      "descricao": "Voce ataca em estado de furia. Causa 22 pontos de dano.",
+      "custoMana": 10,
+      "efeito": 22
+    },
+    {
+      "id": "flecha_rapida",
+      "nome": "Flecha Rapida",
+      "tipo": "dano",
+      "descricao": "Atira uma flecha rapidamente. Causa 8 pontos de dano.",
+      "custoMana": 3,
+      "efeito": 8
+    },
+    {
+      "id": "tiro_preciso",
+      "nome": "Tiro Preciso",
+      "tipo": "dano",
+      "descricao": "Um tiro certeiro e poderoso. Causa 16 pontos de dano.",
+      "custoMana": 7,
+      "efeito": 16
+    },
+    {
+      "id": "evasao",
+      "nome": "Evasão",
+      "tipo": "cura",
+      "descricao": "Recupera o folego para continuar a luta. Recupera 14 pontos de vida.",
+      "custoMana": 5,
+      "efeito": 14
+    },
+    {
+      "id": "bola_de_fogo",
+      "nome": "Bola de Fogo",
+      "tipo": "dano",
+      "descricao": "Lanca uma bola de fogo. Causa 30 pontos de dano.",
+      "custoMana": 12,
+      "efeito": 30
+    },
+    {
+      "id": "escudo_magico",
+      "nome": "Escudo Mágico",
+      "tipo": "cura",
+      "descricao": "Cria um escudo protetor que revitaliza. Recupera 15 pontos de vida.",
+      "custoMana": 5,
+      "efeito": 15
+    },
+    {
+      "id": "cura_arcana",
+      "nome": "Cura Arcana",
+      "tipo": "cura",
+      "descricao": "Recupera vida com magia poderosa. Recupera 25 pontos de vida.",
+      "custoMana": 9,
+      "efeito": 25
+    }
+  ]
+}

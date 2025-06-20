@@ -1,0 +1,22 @@
+{
+  "npcs": [
+    {
+      "id": "velho_sabio",
+      "nome": "Velho Sabio",
+      "dialogos": [
+        "Esses goblins estao por toda a parte, se voce eliminasse o lider deles talvez eles nos deixassem em paz",
+        "Ola, aventureiro!"
+      ],
+      "missaoId": "primeira_missao"
+    },
+    {
+      "id": "caçador_goblin",
+      "nome": "Cacador de Goblins",
+      "dialogos": [
+        "Preciso de dentes de goblin para minhas pesquisas. Pode trazer alguns para mim?",
+        "Cuidado com os goblins explosivos no caminho!"
+      ],
+      "missaoId": "coleta_dentes_goblin"
+    }
+  ]
+}

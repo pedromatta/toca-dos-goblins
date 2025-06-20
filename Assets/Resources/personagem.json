@@ -1,0 +1,27 @@
+{
+    "nome": "Joao",
+    "classe": "Mago",
+    "raca": "Elfo",
+    "forca": 0,
+    "destreza": 2,
+    "inteligencia": 10,
+    "constituicao": 4,
+    "vidaMaxima": 40,
+    "vidaAtual": 40,
+    "manaMaxima": 50,
+    "manaAtual": 50,
+    "ataque": 10,
+    "defesa": 4,
+    "nivel": 1,
+    "experiencia": 0,
+    "experienciaParaProximoNivel": 100,
+    "capacidadeCarga": 0,
+    "pontosHabilidadeDisponiveis": 0,
+    "pontosAtributosDisponiveis": 0,
+    "habilidades": [
+        "Salvacao"
+    ],
+    "inventario": [],
+    "armaEquipada": "Foco Simples",
+    "missoes": []
+}

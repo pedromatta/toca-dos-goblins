@@ -1,0 +1,28 @@
+{
+  "missoes": [
+    {
+      "id": "primeira_missao",
+      "nome": "Mande os Goblins Embora",
+      "descricao": "O Velho Sabio pediu para voce resolver o problema dos goblins de uma vez por todas. Derrote o lider dos goblins na toca ao norte.",
+      "tipo": "exterminio",
+      "objetivo": "goblin_lider",
+      "quantidadeNecessaria": 1,
+      "recompensaXP": 800,
+      "recompensaItemId": "arma_amorfica",
+      "inimigoParaExterminioId": "goblin_lider",
+      "itemParaColeta": ""
+    },
+    {
+      "id": "coleta_dentes_goblin",
+      "nome": "Dentes para Pesquisa",
+      "descricao": "O Cacador de Goblins precisa de 8 Dentes de Goblin para suas pesquisas. Colete-os dos goblins que encontrar.",
+      "tipo": "coleta",
+      "objetivo": "dente_goblin",
+      "quantidadeNecessaria": 8,
+      "recompensaXP": 250,
+      "recompensaItemId": "pocao_media",
+      "inimigoParaExterminioId": "",
+      "itemParaColetaId": "dente_goblin"
+    }
+  ]
+}

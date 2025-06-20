@@ -1,0 +1,25 @@
+{
+  "classes": [
+    {
+      "id": "guerreiro",
+      "nome": "Guerreiro",
+      "tipoAtaque": "forca",
+      "armaInicialId": "espada_curta",
+      "habilidadesClasseId": ["golpe_forte", "defesa_ferrea", "furia"]
+    },
+    {
+      "id": "arqueiro",
+      "nome": "Arqueiro",
+      "tipoAtaque": "destreza",
+      "armaInicialId": "arco_curto",
+      "habilidadesClasseId": ["flecha_rapida", "tiro_preciso", "evasao"]
+    },
+    {
+      "id": "mago",
+      "nome": "Mago",
+      "tipoAtaque": "inteligencia",
+      "armaInicialId": "foco_simples",
+      "habilidadesClasseId": ["bola_de_fogo", "escudo_magico", "cura_arcana"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "inimigos": [
+    {
+      "id": "goblin",
+      "nome": "Goblin",
+      "vidaMaxima": 7,
+      "ataque": 2,
+      "dadoAtaque": 6,
+      "defesa": 12,
+      "xp": 25,
+      "permanentDeath": false,
+      "recompensaItemIds": ["dente_goblin"]
+    },
+    {
+      "id": "goblin_elite",
+      "nome": "Goblin de Elite",
+      "vidaMaxima": 22,
+      "ataque": 4,
+      "dadoAtaque": 8,
+      "defesa": 14,
+      "xp": 50,
+      "permanentDeath": false,
+      "recompensaItemIds": ["dente_goblin"]
+    },
+    {
+      "id": "goblin_explosivo",
+      "nome": "Goblin Explosivo",
+      "vidaMaxima": 10,
+      "ataque": 3,
+      "dadoAtaque": 10,
+      "defesa": 11,
+      "xp": 35,
+      "permanentDeath": false,
+      "recompensaItemIds": ["dente_goblin", "pocao_pequena"]
+    },
+    {
+      "id": "goblin_explosivo_elite",
+      "nome": "Goblin Explosivo de Elite",
+      "vidaMaxima": 18,
+      "ataque": 5,
+      "dadoAtaque": 12,
+      "defesa": 13,
+      "xp": 60,
+      "permanentDeath": false,
+      "recompensaItemIds": ["dente_goblin", "pocao_media"]
+    },
+    {
+      "id": "goblin_lider",
+      "nome": "Goblin Lider",
+      "vidaMaxima": 35,
+      "ataque": 5,
+      "dadoAtaque": 10,
+      "defesa": 15,
+      "xp": 100,
+      "permanentDeath": true,
+      "recompensaItemIds": ["pocao_grande"]
+    }
+  ]
+}

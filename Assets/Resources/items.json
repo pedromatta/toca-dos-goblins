@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": "espada_curta",
+      "nome": "Espada Curta",
+      "descricao": "Espada usada por guerreiros iniciantes",
+      "peso": 1,
+      "tipo": "Arma",
+      "diceType": 6,
+      "healingAmount": 0
+    },
+    {
+      "id": "arco_curto",
+      "nome": "Arco Curto",
+      "descricao": "Arco usado por guerreiros iniciantes",
+      "peso": 1,
+      "tipo": "Arma",
+      "diceType": 6,
+      "healingAmount": 0
+    },
+    {
+      "id": "foco_simples",
+      "nome": "Foco Simples",
+      "descricao": "Foco arcano usado por magos iniciantes",
+      "peso": 1,
+      "tipo": "Arma",
+      "diceType": 4,
+      "healingAmount": 0
+    },
+    {
+      "id": "pocao_vida",
+      "nome": "Pocao de Vida",
+      "descricao": "Recupera vida.",
+      "peso": 1,
+      "tipo": "Pocao",
+      "diceType": 0,
+      "healingAmount": 25
+    },
+    {
+      "id": "arma_amorfica",
+      "nome": "Arma Amorfica",
+      "descricao": "Uma arma que se transforma no que o usuario desejar",
+      "peso": 1,
+      "tipo": "Arma",
+      "diceType": 12,
+      "healingAmount": 0
+    },
+    {
+      "id": "dente_goblin",
+      "nome": "Dente de Goblin",
+      "descricao": "Um dente arrancado de um goblin.",
+      "peso": 1,
+      "tipo": "Coletavel",
+      "diceType": 0,
+      "healingAmount": 0
+    },
+    {
+      "id": "pocao_pequena",
+      "nome": "Pocao Pequena",
+      "descricao": "Recupera um pouco de vida.",
+      "peso": 1,
+      "tipo": "Pocao",
+      "diceType": 0,
+      "healingAmount": 10
+    },
+    {
+      "id": "pocao_media",
+      "nome": "Pocao Media",
+      "descricao": "Recupera uma quantidade razoavel de vida.",
+      "peso": 1,
+      "tipo": "Pocao",
+      "diceType": 0,
+      "healingAmount": 30
+    },
+    {
+      "id": "pocao_grande",
+      "nome": "Pocao Grande",
+      "descricao": "Recupera muita vida.",
+      "peso": 1,
+      "tipo": "Pocao",
+      "diceType": 0,
+      "healingAmount": 60
+    }
+  ]
+}

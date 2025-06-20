@@ -1,0 +1,31 @@
+{
+  "racas": [
+    {
+      "id": "humano",
+      "nome": "Humano",
+      "baseForca": 2,
+      "baseDestreza": 2,
+      "baseInteligencia": 2,
+      "baseConstituicao": 0,
+      "habilidadeBaseId": "resiliencia"
+    },
+    {
+      "id": "elfo",
+      "nome": "Elfo",
+      "baseForca": 0,
+      "baseDestreza": 2,
+      "baseInteligencia": 4,
+      "baseConstituicao": -2,
+      "habilidadeBaseId": "salvacao"
+    },
+    {
+      "id": "anao",
+      "nome": "Anao",
+      "baseForca": 2,
+      "baseDestreza": -2,
+      "baseInteligencia": 0,
+      "baseConstituicao": 4,
+      "habilidadeBaseId": "esguio"
+    }
+  ]
+}
