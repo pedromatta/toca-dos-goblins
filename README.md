@@ -6,6 +6,10 @@ Este é um projeto de RPG desenvolvido em Unity, disponível tanto para compila�
 
 Um RPG 2D com sistema de combate, missões, inventário, progressão de personagem e exploração de áreas, totalmente implementado em C# utilizando Unity.
 
+## Código
+
+O código do jogo está disponível em Assets/Scripts. Nesse diretório estão todos os modelos de classes, controladores, managers e lógica.
+
 ## Controles
 
 **Navegação na tela inicial** - Mouse.
