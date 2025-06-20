@@ -27,7 +27,7 @@ O jogo está publicado no itch.io. Basta acessar o link abaixo e jogar diretamen
 1. **Clone o repositório:**
 
 ```bash
-git clone github.com/pedromatta/toca-dos-goblins.git 
+git clone https://github.com/pedromatta/toca-dos-goblins.git 
 ```
 
 3. **Abra o projeto no Unity:**
