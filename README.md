@@ -12,9 +12,9 @@ O código do jogo está disponível em Assets/Scripts. Nesse diretório estão t
 
 ## Controles
 
-**Navegação na tela inicial** - Mouse.
-**Navegação na criação de Personagens** - Setas para navegar, enter para confirmar decisão.
-**Navegação no Mundo** - W,A,S,D para mover o personagem, Mouse para interagir com a UI, E para interagir com NPCs, Inimigos e para mudar de Área
+- **Navegação na tela inicial** - Mouse.
+- **Navegação na criação de Personagens** - Setas para navegar, enter para confirmar decisão.
+- **Navegação no Mundo** - W,A,S,D para mover o personagem, Mouse para interagir com a UI, E para interagir com NPCs, Inimigos e para mudar de Área
 
 ## Como Jogar
 
